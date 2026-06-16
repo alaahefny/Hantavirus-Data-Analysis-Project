@@ -23,4 +23,4 @@ Rather than focusing on a single domain, this portfolio analyzes multiple real-w
 ## 🚀 How to Use This Project
 1. Download the `.xlsx` file to review the interactive charts and visual pivot summaries.
 2. Open and run the `.sql` script in your SQL Server Environment to execute the complete analytical pipeline and explore the queries.
-3.
+  
